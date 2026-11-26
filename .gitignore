@@ -1,1 +1,8 @@
 .env
+
+# Dependencies, build output and local files
+/vendor/
+/node_modules/
+.phpunit.result.cache
+.idea/
+.DS_Store
